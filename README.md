@@ -1,3 +1,5 @@
 # Painting-Flowers-with-a-Neural-Network
 
-<img src="Images/test.png" width = 650>
+<p align="center">
+  <img src="Images/test.png" width = 650>
+</p>
